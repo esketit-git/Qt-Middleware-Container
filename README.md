@@ -10,6 +10,8 @@ The goal of the project is to have a compatibility and versions for all platform
 
 Middleware runs in a browser and so it avoids the compatibility issues plaguing almost all programming languages. Technologies such as jQuery, Ajax, node.js are used to develop applications that run in the Qt container, locally as well as on the Internet.
 
+Example application, say a business wants to load a video on a big TV in their shop window. They create a simple webpage script that displays the video on repeat, store it on their hard disk and play it in the container. 
+
 The uncommented code just runs a site in a window with all controls disabled.
 
 To develop for the project, create code that can be commented on and off to toggle a feature. Features are like full screen toggle or context menu...
