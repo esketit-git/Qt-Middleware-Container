@@ -1,6 +1,6 @@
 # Qt Middleware Container
 
-A simple project designed to display a website in a Qt application. Where the application is Ajax or node.js and the Windows is Qt.
+A simple project designed to display a website in a Qt application. Where the application is Ajax or node.js and the Window is Qt.
 
 The goal of the project is for the code to be minimal. 
 The goal of the project is to be stable.
